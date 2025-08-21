@@ -1,0 +1,354 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+* {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+.iconPage {
+  height: 25px;
+  width: 25px;
+  fill: white;
+}
+.navBar {
+  background-color: #26273B;
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: auto;
+}
+
+.iconArrengment {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 10px;
+}
+
+body {
+  background-color: #151525;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.mainContent {
+  margin-left: 50px; /* Same as the width of the nav bar */
+  padding: 20px;
+  flex-grow: 1;
+}
+
+.middleIcon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.topIcon {
+  align-self: flex-start;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #26273B;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 50px auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+input, button {
+  width: 300px;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+input {
+  background-color: #151525;
+  color: white;
+}
+
+button {
+  background-color: #3A3B5A;
+  color: white;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+button:hover {
+  background-color: #4A4B6A;
+}
+
+label {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  display: block;
+  padding-left: 10px; /* Add padding to align with input */
+  padding-top: 15px;
+}
+
+input {
+  background-color: #151525;
+  color: white;
+  width: 300px; /* Ensure input takes full width */
+  padding: 10px;
+  margin: 0; /* Remove margin */
+  border: none;
+  border-radius: 5px;
+  padding-left: 10px; /* Add padding to align with label */
+  margin-bottom: 5px;
+}
+
+.pasencoreinscrit {
+  color: white;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  width: 300px;
+  font-size: small;
+  display: block;
+  padding-left: 10px; /* Add padding to align with input */
+  padding-top: 5px;
+}
+
+a:hover {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+
+.profilPage {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  background-color: #26273B;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 50px auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+
+.buttoncenter {
+  display: flex;
+  justify-content: center;
+}
+.profilName {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: xx-large;
+  padding-bottom: 50px;
+}
+
+.messages {
+  color: white;
+}
+
+.messagebox {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  background-color: #26273B;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 30px auto;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+@media (min-width: 1200px) {
+  .messagebox {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
+}
+
+@media (max-width: 1199px) {
+  .messagebox {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+.messageContent {
+  font-size: small;
+}
+.messageUserName {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.topMessage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.topFil {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 350px;
+  padding-left: 350px;
+}
+
+.linkNewMessage {
+  padding: 15px;
+  width: auto;
+  height: auto;
+  background-color: #151525;
+  margin: 10px;
+}
+
+.imgPost {
+  width: 100px;
+  height: auto;
+}
+.imgDiv{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+.headerButton {
+  margin-top: 10px;
+  background-color: #26273B;
+  width: auto;
+  height: auto;
+}
+
+/* Ensure the main content is flexible */
+.mainContent {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1200px; /* Set a max-width to prevent it from stretching too much */
+  width: 100%;
+}
+
+/* Profile page container */
+.profilPage {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  background-color: #26273B;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 50px auto;
+  max-width: 800px; /* Set a max-width for the profile container */
+  width: 100%;
+}
+
+/* Center the button */
+.buttoncenter {
+  display: flex;
+  justify-content: center;
+}
+
+/* Profile name styling */
+.profilName {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: xx-large;
+  padding-bottom: 50px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 1000px) {
+  .mainContent {
+    padding: 50px;
+    margin: 50px;
+  }
+
+  .profilName {
+    font-size: large;
+    padding-bottom: 20px;
+  }
+
+  .buttoncenter button {
+    width: 100%;
+  }
+}
+
+
+.imgSteiner{
+  width: 150px;
+  height: auto;
+}
+
+.underHeaderTheme{
+    display: flex;
+    justify-content: center;
+}
+
+.themeContainer {
+  padding-top: 20px;
+  padding-left: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 colonnes */
+  gap: 10px; /* Espacement entre les colonnes */
+}
+
+.themebox {
+    background-color: #26273B;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .themeContainer {
+    grid-template-columns: 1fr; /* Une seule colonne sur petits écrans */
+  }
+}
+
+.upHeaderTheme {
+    padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottomMessage {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconTrashcan {
+  height: 15px;
+  width: 15px;
+  fill: white;
+}
+
+.deleteMessageDiv {
+  cursor: pointer;
+}

@@ -1,0 +1,435 @@
+/* [next]/internal/font/google/geist_e531dabc.module.css [app-client] (css) */
+@font-face {
+  font-family: Geist;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/_next/static/media/gyByhwUxId8gMEwSGFWNOITddY4-s.81df3a5b.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Geist;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/_next/static/media/gyByhwUxId8gMEwcGFWNOITd-s.p.da1ebef7.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Geist Fallback;
+  src: local(Arial);
+  ascent-override: 95.94%;
+  descent-override: 28.16%;
+  line-gap-override: 0.0%;
+  size-adjust: 104.76%;
+}
+
+.geist_e531dabc-module__QGiZLq__className {
+  font-family: Geist, Geist Fallback;
+  font-style: normal;
+}
+
+.geist_e531dabc-module__QGiZLq__variable {
+  --font-geist-sans: "Geist", "Geist Fallback";
+}
+
+
+/* [next]/internal/font/google/geist_mono_68a01160.module.css [app-client] (css) */
+@font-face {
+  font-family: Geist Mono;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/_next/static/media/or3nQ6H_1_WfwkMZI_qYFrkdmhHkjkotbA-s.e32db976.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Geist Mono;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/_next/static/media/or3nQ6H_1_WfwkMZI_qYFrcdmhHkjko-s.p.be19f591.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Geist Mono Fallback;
+  src: local(Arial);
+  ascent-override: 74.67%;
+  descent-override: 21.92%;
+  line-gap-override: 0.0%;
+  size-adjust: 134.59%;
+}
+
+.geist_mono_68a01160-module__YLcDdW__className {
+  font-family: Geist Mono, Geist Mono Fallback;
+  font-style: normal;
+}
+
+.geist_mono_68a01160-module__YLcDdW__variable {
+  --font-geist-mono: "Geist Mono", "Geist Mono Fallback";
+}
+
+
+/* [project]/app/globals.css [app-client] (css) */
+body {
+  font-family: Roboto, sans-serif;
+}
+
+* {
+  font-family: Roboto, sans-serif;
+  color: #fff;
+}
+
+.iconPage {
+  height: 25px;
+  width: 25px;
+  fill: #fff;
+}
+
+.navBar {
+  background-color: #26273b;
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: auto;
+}
+
+.iconArrengment {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 10px;
+}
+
+body {
+  background-color: #151525;
+}
+
+h2 {
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.mainContent {
+  margin-left: 50px;
+  padding: 20px;
+  flex-grow: 1;
+}
+
+.middleIcon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.topIcon {
+  align-self: flex-start;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #26273b;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00000080;
+  margin: 50px auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+input, button {
+  width: 300px;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+input {
+  background-color: #151525;
+  color: #fff;
+}
+
+button {
+  background-color: #3a3b5a;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+button:hover {
+  background-color: #4a4b6a;
+}
+
+label {
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  text-align: left;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  display: block;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+input {
+  background-color: #151525;
+  color: #fff;
+  width: 300px;
+  padding: 10px;
+  margin: 0;
+  border: none;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-bottom: 5px;
+}
+
+.pasencoreinscrit {
+  color: #fff;
+  text-decoration: none;
+  font-family: Roboto, sans-serif;
+  text-align: left;
+  width: 300px;
+  font-size: small;
+  display: block;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+a:hover {
+  color: #fff;
+}
+
+a:visited {
+  color: #fff;
+}
+
+.profilPage {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  background-color: #26273b;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00000080;
+  margin: 50px auto;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+
+.buttoncenter {
+  display: flex;
+  justify-content: center;
+}
+
+.profilName {
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  font-size: xx-large;
+  padding-bottom: 50px;
+}
+
+.messages {
+  color: #fff;
+}
+
+.messagebox {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  background-color: #26273b;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00000080;
+  margin: 30px auto;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+@media (width >= 1200px) {
+  .messagebox {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+}
+
+@media (width <= 1199px) {
+  .messagebox {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+.messageContent {
+  font-size: small;
+}
+
+.messageUserName {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.topMessage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.topFil {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 350px;
+  padding-left: 350px;
+}
+
+.linkNewMessage {
+  padding: 15px;
+  width: auto;
+  height: auto;
+  background-color: #151525;
+  margin: 10px;
+}
+
+.imgPost {
+  width: 100px;
+  height: auto;
+}
+
+.imgDiv {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+.headerButton {
+  margin-top: 10px;
+  background-color: #26273b;
+  width: auto;
+  height: auto;
+}
+
+.mainContent {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.profilPage {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  background-color: #26273b;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00000080;
+  margin: 50px auto;
+  max-width: 800px;
+  width: 100%;
+}
+
+.buttoncenter {
+  display: flex;
+  justify-content: center;
+}
+
+.profilName {
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  font-size: xx-large;
+  padding-bottom: 50px;
+}
+
+@media (width <= 1000px) {
+  .mainContent {
+    padding: 50px;
+    margin: 50px;
+  }
+
+  .profilName {
+    font-size: large;
+    padding-bottom: 20px;
+  }
+
+  .buttoncenter button {
+    width: 100%;
+  }
+}
+
+.imgSteiner {
+  width: 150px;
+  height: auto;
+}
+
+.underHeaderTheme {
+  display: flex;
+  justify-content: center;
+}
+
+.themeContainer {
+  padding-top: 20px;
+  padding-left: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.themebox {
+  background-color: #26273b;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00000080;
+  cursor: pointer;
+}
+
+@media (width <= 768px) {
+  .themeContainer {
+    grid-template-columns: 1fr;
+  }
+}
+
+.upHeaderTheme {
+  padding-left: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottomMessage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconTrashcan {
+  height: 15px;
+  width: 15px;
+  fill: #fff;
+}
+
+.deleteMessageDiv {
+  cursor: pointer;
+}
+
+
+/*# sourceMappingURL=%5Broot%20of%20the%20server%5D__9d1267._.css.map*/

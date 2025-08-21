@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9a049d1-3ce6-457b-b5e6-e1ddcdc15ef2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/blog/auth/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/blog/auth/profil/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/blog/auth/register/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/blog/bookmark/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/blog/newmessage/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/blog/theme/createtheme/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/blog/theme/showtheme/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/component/AxiosInstance.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/component/ButtonCreateMessage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/component/ButtonCreateTheme.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/component/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2tZkD30w3pE8F4pX4iUbVvERkkH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guill/Desktop/kanban-front&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\guill\\Desktop\\blog\\blogfront\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guill\Desktop\blog\blogfront\app\blog\theme\showtheme" />
+      <recent name="C:\Users\guill\Desktop\blog\blogfront\app" />
+      <recent name="C:\Users\guill\Desktop\blog\blogfront\app\component" />
+      <recent name="C:\Users\guill\Desktop\blog\blogfront\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a049d1-3ce6-457b-b5e6-e1ddcdc15ef2" name="Changes" comment="" />
+      <created>1740566862161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740566862161</updated>
+      <workItem from="1740566864219" duration="3967000" />
+      <workItem from="1740753258311" duration="1066000" />
+      <workItem from="1740754349637" duration="4444000" />
+      <workItem from="1740761811503" duration="9208000" />
+      <workItem from="1740935132085" duration="5151000" />
+      <workItem from="1741004701453" duration="12723000" />
+      <workItem from="1741091498701" duration="4412000" />
+      <workItem from="1741099537876" duration="4077000" />
+      <workItem from="1741159235665" duration="3528000" />
+      <workItem from="1741184732794" duration="5772000" />
+      <workItem from="1741332107175" duration="7526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
